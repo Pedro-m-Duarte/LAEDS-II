@@ -1,0 +1,10 @@
+Heap: 1 Numero de Comparacoes: 117620
+Heap: 2 Numero de Comparacoes: 255385
+Heap: 3 Numero de Comparacoes: 400291
+Heap: 4 Numero de Comparacoes: 550761
+Heap: 5 Numero de Comparacoes: 704821
+Heap: 6 Numero de Comparacoes: 860736
+Heap: 7 Numero de Comparacoes: 1019405
+Heap: 8 Numero de Comparacoes: 1181558
+Heap: 9 Numero de Comparacoes: 1345167
+Heap: 10 Numero de Comparacoes: 1509766

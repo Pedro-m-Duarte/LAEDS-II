@@ -1,0 +1,10 @@
+Arvore: 1 Tempo Gasto para fazer a procura: 6701(nano segundos) Numero de Comparacoes: 8
+Arvore: 2 Tempo Gasto para fazer a procura: 13900(nano segundos) Numero de Comparacoes: 9
+Arvore: 3 Tempo Gasto para fazer a procura: 7601(nano segundos) Numero de Comparacoes: 9
+Arvore: 4 Tempo Gasto para fazer a procura: 22301(nano segundos) Numero de Comparacoes: 10
+Arvore: 5 Tempo Gasto para fazer a procura: 27800(nano segundos) Numero de Comparacoes: 10
+Arvore: 6 Tempo Gasto para fazer a procura: 7300(nano segundos) Numero de Comparacoes: 10
+Arvore: 7 Tempo Gasto para fazer a procura: 10100(nano segundos) Numero de Comparacoes: 10
+Arvore: 8 Tempo Gasto para fazer a procura: 8101(nano segundos) Numero de Comparacoes: 10
+Arvore: 9 Tempo Gasto para fazer a procura: 7800(nano segundos) Numero de Comparacoes: 10
+Arvore: 10 Tempo Gasto para fazer a procura: 8600(nano segundos) Numero de Comparacoes: 10
